@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const rs = require('request');
 const cors = require('cors');
 const { VidstreamingScraper } = require('vidstreaming-scraper');
-const baseUrl  = 'https://gogoanime.pe';
+const baseUrl  = 'https://otakudesu.tube';
 const app = express();
 const PORT = process.env.PORT || 5000;
 app.use(cors());
