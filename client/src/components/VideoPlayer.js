@@ -16,7 +16,7 @@ const VideoPlayer = ({url}) => {
     title="0" byline="0" portrait="0"
     width="640" height="360"
     frameborder="0"
-    allow="autoplay"/ >
+    allow="autoplay" />
 </div>
 )
 }
